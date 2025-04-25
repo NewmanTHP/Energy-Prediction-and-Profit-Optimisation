@@ -7,14 +7,12 @@ Create Virtual Environment:
 
 Folder Structure ------------------
 
-Challenge_description:
-	- Contains the case study description.
 
 Data:
-	- Contains the data sent for the case study.
+	- Contains the data used in the forecasting and optimisation.
 
 Python_scripts:
-	- Contains the jupyter notebooks with the solutions to the two case study problems.
+	- Contains the jupyter notebooks with the solutions to forecasting and optimisation problems.
 	- Contains a python file with functions used in the notebooks.
 
 Requirement.txt:
